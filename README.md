@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**kbdev-21/kbdev-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> I'm Kim Bang from Vietnam <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ashifZafar = {
+  pronouns: "he" | "his",
+  place: "HCM City, Vietnam",
+  languages: [Java, Dart, C#, JavaScript, HTML, CSS, Python],
+  techs: [Flutter, Android Studio, ExpressJS, ReactJS, .NET, Unity],
+}
+
+ 
