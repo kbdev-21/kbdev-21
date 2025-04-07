@@ -10,8 +10,7 @@
 
 ```javascript
 const kb = {
-  pronouns: "he" | "his",
-  languages: [Java, Dart, C#, JavaScript, HTML, CSS, Python],
-  techs: [Flutter, Android Studio, ExpressJS, ReactJS, .NET, Unity],
+  favLanguages: [Java, JavaScript, Dart],
+  techs: [ReactJS, ExpressJS, Flutter, Android Studio, SQL, MongoDB],
 }
 ```
