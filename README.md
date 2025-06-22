@@ -11,7 +11,7 @@
 ```javascript
 const kb = {
   name: "Doan Kim Bang",
-  favLanguages: [JavaScript, Java, Dart],
-  techs: [ReactJS, ExpressJS, Flutter, Android Native, MongoDB, MSSQL],
+  favLanguages: [Java, TypeScript, C#, Dart],
+  techs: [ReactJS, ExpressJS, SpringBoot, Flutter, AndroidNative, MongoDB, MSSQL],
 }
 ```
