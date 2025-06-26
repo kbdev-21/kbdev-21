@@ -11,7 +11,8 @@
 ```javascript
 const kb = {
   name: "Doan Kim Bang",
+  country: "Vietnam",
   favLanguages: [Java, TypeScript, C#, Dart],
-  techs: [ReactJS, ExpressJS, SpringBoot, Flutter, AndroidNative, Unity]
+  techs: [SpringBoot, ReactJS, ExpressJS, Flutter, AndroidNative, Unity, PostgreSQL, MongoDB]
 }
 ```
