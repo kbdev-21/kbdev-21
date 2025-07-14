@@ -12,8 +12,6 @@
 class Me extends SoftwareEngineer {
     private final String name = "Doan Kim Bang";
 
-    private String email = "doankimbang210703@gmail.com";
-
     private String location = "Ho Chi Minh City, Vietnam";
 
     private List<String> favouriteLanguages = List.of("Java", "Kotlin", "Dart");
