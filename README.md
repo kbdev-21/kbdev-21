@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About me
 
 ```Java
-class Me extends SoftwareEngineer {
+class Me extends WebDeveloper {
     private final String name = "Doan Kim Bang";
 
     private String location = "Ho Chi Minh City, Vietnam";
