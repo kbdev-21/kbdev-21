@@ -11,10 +11,10 @@ class Me extends SoftwareEngineer {
 
     private String location = "Ho Chi Minh City, Vietnam";
 
-    private List<String> favouriteLanguages = List.of("Java", "Kotlin", "Dart");
+    private List<ProgrammingLanguage> favouriteLanguages = List.of(Java, Kotlin, TypeScript, Dart);
 
-    private List<String> databases = List.of("PostgreSQL", "MongoDB");
+    private List<Database> databases = List.of(PostgreSQL, MongoDB);
 
-    private List<String> frameworks = List.of("Spring Boot", "ReactJS", "Flutter", "Android Native", "ASP.NET");
+    private List<Framework> techs = List.of(SpringBoot, ASPNET, React, NextJS, Flutter, AndroidNative);
 }
 ```
