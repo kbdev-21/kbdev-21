@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm <strong>Doan Kim Bang</strong> <img src="https://media1.tenor.com/m/3UOMhMRw_9gAAAAC/t%C3%B4i-y%C3%AAu-vi%E1%BB%87t-nam-vi%E1%BB%87t-nam-s%C3%A1ng-ng%E1%BB%9Di.gif" width="40"/></h2>
+<h2>Hi there👋, I'm Doan Kim Bang, a Full-stack Developer <img src="https://media1.tenor.com/m/3UOMhMRw_9gAAAAC/t%C3%B4i-y%C3%AAu-vi%E1%BB%87t-nam-vi%E1%BB%87t-nam-s%C3%A1ng-ng%E1%BB%9Di.gif" width="40"/></h2>
 
 <p>
   🌏 Ho Chi Minh City, Vietnam &nbsp;|&nbsp;
