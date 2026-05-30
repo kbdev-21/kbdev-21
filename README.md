@@ -8,24 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-```typescript
-class Me extends FullstackDeveloper {
-    name = "Doan Kim Bang";
-    location = "Ho Chi Minh City, Vietnam";
-
-    languages = ["TypeScript", "Java", "C#", "Dart", "Kotlin"];
-    databases = ["PostgreSQL", "MySQL", "MongoDB"];
-    frameworks = [
-        "NestJS", "Spring Boot",
-        "React", "Flutter"
-    ];
-}
-```
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
